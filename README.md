@@ -11,9 +11,9 @@ It has many features:
 
 4- /hijri-date/current: Route for getting the hijri date of current day.
 
-5- /monthly-calendar: Route for getting the monthly calender of a month of your choice.
+5- /monthly-calendar: Route for getting the monthly calendar of a month of your choice.
 
-6- /monthly-calendar/current: Route for getting the monthly calender of current month.
+6- /monthly-calendar/current: Route for getting the monthly calendar of current month.
 
 Also there is a job scheduled to run every minute that checks prayer times and sends email alerts to users of your choice when a prayer time arrives. It also send email alerts on Imsak, Sunrise, Midnight, Firstthird, Lastthird.
 
